@@ -4,8 +4,8 @@ discord: diavolo#6969
 [UWorld] 0xB613240
 
 World.Levels                                         ->   0x148
-  World.PersistentLevel                                ->   0x30
-  GameInstance.LocalPlayers                            ->   0x38
+World.PersistentLevel                                ->   0x30
+GameInstance.LocalPlayers                            ->   0x38
   World.OwningGameInstance                             ->   0x190
   Controller.ControlRotation                           ->   0x298
   PlayerController.PlayerCameraManager                 ->   0x2C8
